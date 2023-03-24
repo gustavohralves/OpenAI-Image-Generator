@@ -1,7 +1,7 @@
 import openai
 import requests
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 imagine = input("PROMPT-:>Imagine: ")
 
